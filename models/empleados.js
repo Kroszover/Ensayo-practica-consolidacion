@@ -73,3 +73,5 @@ class Empleado {
     this._fechaContratacion = fechaContratacion;
   }
 }
+
+module.exports = Empleado;

@@ -29,3 +29,5 @@ class Cliente {
     this._nombreDeContacto = nombreDeContacto;
   }
 }
+
+module.exports = Cliente;

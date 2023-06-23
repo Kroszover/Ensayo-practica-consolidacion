@@ -73,3 +73,5 @@ class Orden {
     this._carga = carga;
   }
 }
+
+module.exports = Orden;

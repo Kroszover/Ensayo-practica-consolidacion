@@ -47,3 +47,5 @@ class DetalleDeOrden {
     this._descuento = descuento;
   }
 }
+
+module.exports = DetalleDeOrden;
